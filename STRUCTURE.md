@@ -26,6 +26,7 @@
 │   ├── README.md                     # what belongs in docs/
 │   ├── business-context.md           # optional: team DNA, business part (template)
 │   ├── custom-agents.md              # guide: custom agents
+│   ├── sql-style-review.md           # walkthrough for the sql-style-review starter idea
 │   ├── sql-style-rules.md            # rules for the sql-style-review starter idea
 │   └── templates/                    # instructions file, idea card, SKILL.md; not loaded from here
 └── personal-examples/                # templates for ~/.copilot/; NOT loaded from here
