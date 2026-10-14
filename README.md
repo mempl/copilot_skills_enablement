@@ -8,13 +8,14 @@ All data in this repository is fictitious: no real customers, stores or figures.
 
 | Tag | Content | Use it to |
 | --- | --- | --- |
-| `demo-0-bare` | Migration example without instructions or skill | Write your instructions file on the example |
-| `demo-1-instructions` | + `.github/copilot-instructions.md` | |
-| `demo-2-skill` | + the `migration-reconciliation` skill | See the finished example |
-| `starter` | Bare bones: no use case, templates, a Git-ignored `data/input/` | Build a skill on **your own** data |
+| `bare-bare` | Scaffolding only: folders, guides, templates, a Git-ignored `data/input/`. No use case | Build a skill on **your own** data |
+| `demo-0-bare` | + the migration example: sample data, business context. No instructions, no skill | Live demo run 0; write your instructions file on the example |
+| `demo-1-instructions` | + `.github/copilot-instructions.md` | Live demo run 1 |
+| `demo-2-skill` | + the `migration-reconciliation` skill | Live demo run 2; the finished example |
 
 ```bash
-git switch -c my-work starter        # or demo-0-bare
+git switch -c my-work bare-bare      # your own data
+git switch -c my-work demo-0-bare    # the migration example
 ```
 
 `git tag` only lists the tags; `git switch -c <branch> <tag>` starts your own branch from one.
