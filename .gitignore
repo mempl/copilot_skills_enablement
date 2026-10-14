@@ -1,0 +1,17 @@
+# Real input data: never committed
+data/input/*
+!data/input/README.md
+
+# Secrets
+.env
+*.secret*
+
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# Large or generated files
+*.parquet
+*.xlsx.tmp
+~$*
