@@ -13,4 +13,4 @@ Small, fictitious samples for exercises and demos. They are committed on purpose
 | --- | --- |
 | `samples/legacy-dwh/` | Report extracts as delivered by the legacy DWH |
 | `samples/databricks/` | The same reports produced by the new platform |
-| `samples/sql/` | A dbt model with planted style violations, for the `sql-style-review` starter idea (rules: `docs/sql-style-rules.md`, idea card: `docs/idea-card-sql-style-review.md`) |
+| `samples/sql/` | A dbt model with planted style violations for the `sql-style-review` starter idea. Walkthrough: `docs/sql-style-review.md` |
