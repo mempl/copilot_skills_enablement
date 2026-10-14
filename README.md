@@ -4,6 +4,21 @@ Workshop repository for **Effizient arbeiten mit Copilot** (groups 2 and 4). It 
 
 All data in this repository is fictitious: no real customers, stores or figures.
 
+## States (Git tags)
+
+| Tag | Content | Use it to |
+| --- | --- | --- |
+| `demo-0-bare` | Migration example without instructions or skill | Write your instructions file on the example |
+| `demo-1-instructions` | + `.github/copilot-instructions.md` | |
+| `demo-2-skill` | + the `migration-reconciliation` skill | See the finished example |
+| `starter` | Bare bones: no use case, templates, a Git-ignored `data/input/` | Build a skill on **your own** data |
+
+```bash
+git switch -c my-work starter        # or demo-0-bare
+```
+
+`git tag` only lists the tags; `git switch -c <branch> <tag>` starts your own branch from one.
+
 ## Quick start
 
 1. Open this folder in VS Code and trust it when asked. In Restricted Mode, agents are disabled.
