@@ -20,11 +20,13 @@
 │   ├── input/                        # your real input; ignored by Git
 │   │   └── README.md                 # how to get files here (SharePoint, Excel, exports)
 │   └── samples/                      # test inputs with a known answer; committed
-│       └── README.md                 # how to plant errors and write the expected result
+│       ├── README.md                 # how to plant errors and write the expected result
+│       └── sql/                      # starter idea: a dbt model with planted style violations
 ├── docs/
 │   ├── README.md                     # what belongs in docs/
 │   ├── business-context.md           # optional: team DNA, business part (template)
 │   ├── custom-agents.md              # guide: custom agents
+│   ├── sql-style-rules.md            # rules for the sql-style-review starter idea
 │   └── templates/                    # instructions file, idea card, SKILL.md; not loaded from here
 └── personal-examples/                # templates for ~/.copilot/; NOT loaded from here
     ├── README.md

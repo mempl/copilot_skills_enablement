@@ -29,6 +29,7 @@ Already have a project repository? Work there instead, and copy over `docs/templ
 | `data/samples/` | Test inputs with a known answer; committed | [Samples](data/samples/README.md) |
 | `docs/business-context.md` | Optional: your team's domain, systems, pain points | [Docs](docs/README.md) |
 | `docs/templates/` | Instructions, idea card, SKILL.md to copy from | |
+| `docs/sql-style-rules.md` + `data/samples/sql/` | No input of your own? A ready-made starter: SQL style review with planted violations | [Samples](data/samples/README.md) |
 | `~/.copilot/` (your home folder) | Personal instructions, writing style, personal skills; never committed | [Personal examples](personal-examples/README.md) |
 
 Full tree and rules: [STRUCTURE.md](STRUCTURE.md).
