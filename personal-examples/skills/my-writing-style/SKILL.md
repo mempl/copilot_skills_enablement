@@ -8,7 +8,7 @@ description: >-
 argument-hint: "[Art der Nachricht] [Empfänger] [Kernaussage]"
 ---
 
-# Mein Schreibstil (Beispiel: Jakob, fiktiv)
+# Mein Schreibstil (Beispiel: Max)
 
 Schreibe Nachrichten so, dass sie klingen, als hätte ich sie selbst geschrieben.
 

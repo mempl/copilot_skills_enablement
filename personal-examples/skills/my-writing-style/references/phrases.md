@@ -19,4 +19,4 @@
 
 ## Abschluss
 - „Danke dir!"
-- „Viele Grüße, Jakob"
+- „Viele Grüße, Max"

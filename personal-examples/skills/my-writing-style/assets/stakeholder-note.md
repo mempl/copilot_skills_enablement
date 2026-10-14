@@ -9,4 +9,4 @@ kurzes Update zu <Thema>: <Kernaussage in einem Satz>.
 Ich melde mich bis <Termin> mit <Ergebnis>.
 
 Viele Grüße
-Jakob
+Max

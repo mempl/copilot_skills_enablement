@@ -11,4 +11,4 @@ Hi <Name>,
 Nächster Schritt: <wer macht was bis wann>.
 
 Viele Grüße
-Jakob
+Max

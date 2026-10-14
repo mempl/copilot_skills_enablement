@@ -8,4 +8,4 @@ kannst du bis <Termin> <was> reviewen? <Link oder PR-Nummer>.
 - <optional: zweiter Punkt>
 
 Danke dir!
-Jakob
+Max
