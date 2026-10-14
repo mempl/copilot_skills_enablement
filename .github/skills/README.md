@@ -154,4 +154,4 @@ A missed item usually means missing knowledge or a vague step; a false alarm mea
 
 | Skill | Use it for | Owner |
 | --- | --- | --- |
-| *(none yet)* | | |
+| `migration-reconciliation` | Comparing a legacy extract with the new platform's output for the same report and month | Migration team |

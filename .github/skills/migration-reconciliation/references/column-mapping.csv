@@ -1,0 +1,7 @@
+old_column,new_column,transformation
+FIL_NR,store_id,none
+KDNR,customer_id,none
+BUDAT,posting_date,DD.MM.YYYY to YYYY-MM-DD
+WG_SL,product_group,10=FRESH; 20=DRY; 30=NONFOOD
+UMS_NETTO,net_revenue_eur,decimal comma to decimal point
+MENGE,quantity,none
